@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# the giant data file for this project
+hampton-roads_virginia_mapzen_2015-09-26.*

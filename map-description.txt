@@ -1,0 +1,9 @@
+I used a map of the Hampton Roads area in Virginia (US), downloaded from
+the Mapzen Metro Extracts data pool on September 26th, 2015. I chose this
+area because I've lived here for more than a decade.
+
+Mapzen Metro Extracts
+https://mapzen.com/data/metro-extracts
+
+Hampton Roads, Virginia, US
+https://s3.amazonaws.com/metro-extracts.mapzen.com/hampton-roads_virginia.osm.bz2
