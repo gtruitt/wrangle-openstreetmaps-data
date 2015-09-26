@@ -1,0 +1,2 @@
+https://docs.python.org/3.4/
+http://git-scm.com/docs/git-mv
